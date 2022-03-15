@@ -1,0 +1,23 @@
+{
+  "name": "learning_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "tsc main.ts && node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeedev/learning_javascript.git"
+  },
+  "author": "nikeedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikeedev/learning_javascript/issues"
+  },
+  "homepage": "https://github.com/nikeedev/learning_javascript#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "nikitascript": "^0.1.4"
+  }
+}
